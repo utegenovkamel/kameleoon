@@ -1,0 +1,28 @@
+.finalize {
+    padding-top: 40px;
+    &__title {
+        margin-bottom: 35px;
+    }
+    &__item {
+        margin-bottom: 20px;
+    }
+
+    &__back {
+        position: absolute;
+        bottom: 50px;
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+    }
+    &__arrow {
+    }
+
+    &__text {
+        font-family: "Nunito";
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 25px;
+        color: #222222;
+        margin-left: 15px;
+    }
+}
