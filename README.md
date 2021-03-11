@@ -1,3 +1,5 @@
+# Тестовое задание в компанию kameleoon
+Техническое задание https://development.kameleoon.net/oivanov/frontend-interview-task
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
